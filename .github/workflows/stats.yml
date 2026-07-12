@@ -1,0 +1,33 @@
+name: Metrics
+on:
+  # Jalankan otomatis setiap jam 00:00 UTC (07:00 WIB)
+  schedule: [{cron: "0 0 * * *"}]
+  # Jalankan manual lewat tab Actions di GitHub
+  workflow_dispatch:
+  # Jalankan setiap kali ada push di branch master
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    environment:
+      name: production
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Token ini wajib dibuat di repository secrets dengan nama METRICS_TOKEN
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Output file name
+          filename: github-metrics.svg
+
+          # Config base (kartu info umum seperti avatar, commit, stars, followers)
+          base: header, activity, community, repositories, metadata
+          
+          # Plugins tambahan: Top Languages (Bahasa tersering yang digunakan)
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, makefile, shell
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+          plugin_languages_sections: most-used
