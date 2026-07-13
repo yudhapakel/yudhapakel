@@ -1,11 +1,11 @@
-### Hi there, I am Yudha Harwanto Putra 👋
-Software Engineering Student at Telkom University | Backend & AI Engineer
+### Hi there, I am Yudha Harwanto Putra 
+Software Engineering Student at Telkom University | Backend Engineer
 
-I am a passionate Software Engineering student at Telkom University, actively learning and building web technologies and AI integrations. Currently, I am a Backend Engineer in **Chevalier Lab**.
+I am a passionate Software Engineering student at Telkom University, actively learning and building web and AI technology.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 - **Languages:** ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 - **Frameworks:** ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs&logoColor=white)
@@ -13,7 +13,7 @@ I am a passionate Software Engineering student at Telkom University, actively le
 
 ---
 
-### 🚀 Highlight Projects
+###  Highlight Projects
 
 - **Fisight (Proyek Tingkat III):** Sistem Identifikasi Kualitas Ikan untuk Distributor Perikanan (FastAPI + MobileNetV2 + MySQL).
 - **Tubes Chevalier:** Marketplace / Platform digital berbasis pertanian (Laravel API + Next.js).
@@ -21,7 +21,7 @@ I am a passionate Software Engineering student at Telkom University, actively le
 
 ---
 
-### 📊 GitHub Stats & Metrics
+###  GitHub Stats & Metrics
 
 <div align="center">
   <table border="0">
