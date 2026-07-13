@@ -17,7 +17,7 @@ I am a passionate Software Engineering student at Telkom University, actively le
 
 - **Fisight (Proyek Tingkat III):** Sistem Identifikasi Kualitas Ikan untuk Distributor Perikanan (FastAPI + MobileNetV2 + MySQL).
 - **Tubes Chevalier:** Marketplace / Platform digital berbasis pertanian (Laravel API + Next.js).
-- **SIMASU Web DevOps:** Project deployment & configuration management.
+- **HMRPL Website:**  The official portal for the Software Engineering Student Association at Telkom University, focusing on backend development and system testing to maintain a stable production release ( Laravel + React.js).
 
 ---
 
