@@ -1,7 +1,7 @@
 ### Hi there, I am Yudha Harwanto Putra
-Software Engineering Student at Telkom University | Backend & AI Engineer
+Software Engineering Student at Telkom University | Backend Engineer
 
-I am a passionate Software Engineering student at Telkom University, actively learning and building web technologies and AI integrations. Currently, I am a Backend Engineer in **Chevalier Lab**.
+I am a passionate Software Engineering student at Telkom University, actively learning and building web technologies and AI integrations.
 
 ---
 
