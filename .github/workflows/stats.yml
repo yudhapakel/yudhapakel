@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  # Jalankan otomatis setiap jam 00:00 UTC (07:00 WIB)
-  schedule: [{cron: "0 0 * * *"}]
+  # Jalankan otomatis setiap 2 jam sekali (biar ter-update berkala sepanjang hari)
+  schedule: [{cron: "0 */2 * * *"}]
   # Jalankan manual lewat tab Actions di GitHub
   workflow_dispatch:
   # Jalankan setiap kali ada push di branch master
