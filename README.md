@@ -32,7 +32,7 @@ I am a passionate Software Engineering student at Telkom University, actively le
         <img src="./github-metrics.svg" alt="GitHub Metrics" width="380px">
       </td>
       <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=yudhapakel&theme=radical&layout=compact&v1" alt="GitHub Streak" width="380px">
+        <img src="https://homeserver.tail025c02.ts.net/streak.svg" alt="Yudha GitHub Streak" width="380px">
       </td>
     </tr>
   </table>
